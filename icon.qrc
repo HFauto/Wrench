@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/about.jpg</file>
+        <file>icons/arrangement.JPG</file>
+        <file>icons/camera.jpg</file>
+        <file>icons/camera.png</file>
+        <file>icons/camera_2.png</file>
+        <file>icons/Clipper System_1 Pictures.png</file>
+        <file>icons/DBfile.jpg</file>
+        <file>icons/newJob.jpg</file>
+        <file>icons/query.jpg</file>
+        <file>icons/settings.jpg</file>
+        <file>icons/template.jpg</file>
+        <file>icons/TS.JPG</file>
+        <file>icons/1.png</file>
+        <file>icons/BAK.png</file>
+        <file>icons/exit.jpg</file>
+        <file>icons/common.png</file>
+        <file>icons/TS.png</file>
+        <file>icons/time.png</file>
+        <file>icons/video_chat.ico</file>
+        <file>icons/remove_user.ico</file>
+        <file>icons/file_pictures.ico</file>
+        <file>icons/save1.bmp</file>
+        <file>icons/212.bmp</file>
+    </qresource>
+</RCC>
